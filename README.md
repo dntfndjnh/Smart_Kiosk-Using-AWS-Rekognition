@@ -4,4 +4,4 @@
 <li>The photo is then sent to the Spring Boot server and deleted from the device.</li>
 <li>The server analyzes the user's age and gender based on the image and sends a personalized menu list to the app.</li>
     
-![Image](https://github.com/user-attachments/assets/0bc71aa4-cc8b-4f33-a9c7-3c33790789aa)
+![Image](https://github.com/user-attachments/assets/fb672935-6b6e-4b3f-9d30-913c062cf070)
