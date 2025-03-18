@@ -1,6 +1,5 @@
-
-    <h1>Smart Kiosk Using AWS Rekognition</h1>
-    <p>This system consists of an Android app and a Spring Boot server.</p>
+<h1>Smart Kiosk Using AWS Rekognition</h1>
+<p>This system consists of an Android app and a Spring Boot server.</p>
     
     
         <li>The Android app captures a user's photo using the camera module.</li>
