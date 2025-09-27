@@ -4,7 +4,7 @@
 <li>The photo is then sent to the Spring Boot server and deleted from the device and server.</li>
 <li>The server analyzes the user's age and gender based on the image and sends a personalized menu list to the app.</li>
 
-##사용 기술
+## 사용 기술
 
 - 백엔드 서버: Spring Boot, MySQL
 
@@ -12,7 +12,7 @@
 
 - 하드웨어 / 통합 테스트 환경: 안드로이드 기반 키오스크
 
-##핵심 기능
+## 핵심 기능
 
 - 안드로이드 키오스크에서 사용자 이미지 수집 및 서버 전송
 
